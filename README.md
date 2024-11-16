@@ -1,0 +1,1 @@
+# 16_11_2024--3254_Find_the_Power_of_K-Size_Subarrays_I
